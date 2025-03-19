@@ -7,6 +7,7 @@
 void Menu();
 int main() 
 {
+    int teste = 5;
     Criador *listaCriadores = CriarCriador();
     int opcao, busca;
     char cpf[15];
